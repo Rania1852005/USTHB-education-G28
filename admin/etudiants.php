@@ -359,3 +359,35 @@
               <a href="modifier_etudiant.php" class="action-btn edit"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg></a>
               <a href="#" class="action-btn del"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg></a>
             </div></td>
+          <tr>
+            <td>#002</td>
+            <td><strong>23234478</strong></td>
+            <td class="td-name">Benamara Rania</td>
+            <td>17.0</td><td>16.0</td>
+            <td class="td-avg-green">16.75</td>
+            <td><span class="badge-admis">Admis</span></td>
+            <td><div class="etat-dot"><div class="dot dot-green"></div>Actif</div></td>
+            <td><div class="td-actions">
+              <a href="modifier_etudiant.php" class="action-btn edit"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg></a>
+              <a href="#" class="action-btn del"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg></a>
+            </div></td>
+          </tr>
+          <tr>
+            <td>#004</td>
+            <td><strong>23234358</strong></td>
+            <td class="td-name">Bencheikh Nada</td>
+            <td>15.5</td><td>14.0</td>
+            <td class="td-avg-green">14.75</td>
+            <td><span class="badge-admis">Admis</span></td>
+            <td><div class="etat-dot"><div class="dot dot-green"></div>Actif</div></td>
+            <td><div class="td-actions">
+              <a href="modifier_etudiant.php" class="action-btn edit"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg></a>
+              <a href="#" class="action-btn del"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg></a>
+            </div></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+</body>
+</html>
