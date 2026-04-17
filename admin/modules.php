@@ -84,11 +84,12 @@
       <table id="modulesTable">
         <thead><tr><th>Code</th><th>Intitulé</th><th>Coefficient</th><th>Crédit</th><th>Type</th><th>Enseignant</th></tr></thead>
         <tbody>
-          <tr><td>INF101</td><td class="td-name">Introduction à la programmation</td><td>3</td><td>5</td><td>Cours + TP</td><td>Dr. Benali</td></tr>
-          <tr><td>INF102</td><td class="td-name">Algorithmique</td><td>4</td><td>6</td><td>Cours + TD</td><td>Dr. Meziane</td></tr>
-          <tr><td>INF103</td><td class="td-name">Base de données</td><td>3</td><td>5</td><td>Cours + TP</td><td>Dr. Khelil</td></tr>
+          <tr><td>INF101</td><td class="td-name">Programation Web</td><td>3</td><td>4</td><td>Cours + TP</td><td>Dr. Laachemi</td></tr>
+          <tr><td>INF102</td><td class="td-name">Génie Logiciel</td><td>3</td><td>5</td><td>Cours + TD + TP</td><td>Dr. Meziane</td></tr>
+          <tr><td>INF103</td><td class="td-name">Base de données</td><td>3</td><td>6</td><td>Cours + TD + TP</td><td>Dr. Khelil</td></tr>
           <tr><td>INF104</td><td class="td-name">Programmation Web</td><td>3</td><td>5</td><td>Cours + TP</td><td>Dr. Benali</td></tr>
-          <tr><td>INF105</td><td class="td-name">Systèmes d'exploitation</td><td>4</td><td>6</td><td>Cours + TD</td><td>Dr. Meziane</td></tr>
+          <tr><td>INF105</td><td class="td-name">Systèmes d'exploitation</td><td>3</td><td>4</td><td>Cours + TD + TP</td><td>Dr. Guebli</td></tr>
+          <tr><td>INF106</td><td class="td-name">Architecture des ordinateurs</td><td>3</td><td>5</td><td>Cours + TD + TP</td><td>Dr. Got</td></tr>
         </tbody>
       </table>
       <div class="pagination">
