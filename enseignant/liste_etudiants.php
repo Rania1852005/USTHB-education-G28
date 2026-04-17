@@ -62,9 +62,9 @@
         <thead><tr><th>ID</th><th>Matricule</th><th>Nom & Prénom</th><th>Module</th><th>Examen</th><th>Note TD</th><th>Note TP</th><th>Module/20</th></tr></thead>
         <tbody>
           <tr><td>#001</td><td><strong>23234456</strong></td><td class="td-name">Hamiti Sirine</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
-          <tr><td>#002</td><td><strong>23234457</strong></td><td class="td-name">Benali Yacine</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
-          <tr><td>#003</td><td><strong>23234458</strong></td><td class="td-name">Meziane Sara</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
-          <tr><td>#004</td><td><strong>23234459</strong></td><td class="td-name">Khelil Riad</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
+          <tr><td>#002</td><td><strong>23234457</strong></td><td class="td-name">Benamara Rania</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
+          <tr><td>#003</td><td><strong>23234458</strong></td><td class="td-name">Ramdani Douaa</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
+          <tr><td>#004</td><td><strong>23234459</strong></td><td class="td-name">Bencheikh Nada</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
           <tr><td>#005</td><td><strong>23234460</strong></td><td class="td-name">Ait Ali Lyna</td><td>Algo</td><td>15.0</td><td>15.0</td><td>15.0</td><td class="td-green">15.0</td></tr>
         </tbody>
       </table>
